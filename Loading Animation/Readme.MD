@@ -1,1 +1,2 @@
-This is basic loading animation with infinte loop.
+This is basic loading animation with infinite
+loop.
